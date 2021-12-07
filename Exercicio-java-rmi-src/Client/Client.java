@@ -6,7 +6,7 @@ public class Client {
 	
 	String SERVICE_NAME="/PresencesRemote";
 	String[] args;
-
+	//Isto é muito fixe
 	public Client(String[] args)  {
 		this.args = args;
 	}
