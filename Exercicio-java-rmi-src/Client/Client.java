@@ -12,7 +12,7 @@ public class Client {
 
 	public void putPresence() {
 		if (args.length != 2) {
-			System.out.println("Erro: use java ClientApp <ipClient> <ipNameServer>");
+			// System.out.println("Erro: use java ClientApp <ipClient> <ipNameServer>");
 			System.exit(-1);
 		}
 
